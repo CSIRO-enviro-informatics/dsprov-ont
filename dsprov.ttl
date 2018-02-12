@@ -17,6 +17,7 @@
                                  dct:modified "2018-02-09"@en ;
                                  dc:publisher "CSIRO"^^xsd:string ;
                                  dc:creator "Nicholas Car"^^xsd:string ;
+                                 dc:creator "Anila Butt"^^xsd:string ;
                                  rdfs:label "Digiscape Provenance ontology"^^xsd:string ;
                                  rdfs:comment """This ontology contains specialised classes of the PROV ontology relevant to the Digiscape project. This means the ontology can express PROV-O-compliant provenance traces which capture additional Digiscape-specific metadata.
 
