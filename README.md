@@ -9,14 +9,13 @@ As of February, 2018, this work is just beginning thus details are light! Please
 This repository is licensed under Creative Commons 4.0 International. See the [LICENSE deed](LICENSE) in this repository for details.
 
 ## Contacts
-Lead Developer:  
+Author: 
 **Nicholas Car**  
 *Senior Experimental Scientist*  
 CSIRO Land & Water  
 <nicholas.car@csiro.au>  
 
-
-Product Owner & Developer:  
+Contributor:  
 **Anila Butt**  
 *Postdoctoral Fellow*  
 CSIRO Land & Water
