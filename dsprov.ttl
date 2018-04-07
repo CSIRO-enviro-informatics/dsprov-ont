@@ -28,7 +28,7 @@ As of February, 2018, this work is just beginning thus details are light! Please
                                  dct:creator <http://orcid.org/0000-0002-8742-7730> ;
                                  dct:publisher <http://csiro.au> ;
                                  owl:versionInfo "0.1"^^xsd:string ;
-                                 dct:contributor <http://example.org/def/anila.butt@csiro.au> .
+                                 dct:contributor <anila.butt@csiro.au> .
 
 #################################################################
 #    Annotation properties
